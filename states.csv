@@ -1,0 +1,53 @@
+fips,abv,name,nytabrev
+10,DE,Delaware,Del.
+11,DC,D.C.,D.C.
+12,FL,Florida,Fla.
+13,GA,Georgia,Ga.
+15,HI,Hawaii,Hawaii
+16,ID,Idaho,Idaho
+17,IL,Illinois,Ill.
+18,IN,Indiana,Ind.
+19,IA,Iowa,Iowa
+20,KS,Kansas,Kan.
+21,KY,Kentucky,Ky.
+22,LA,Louisiana,La.
+23,ME,Maine,Me.
+24,MD,Maryland,Md.
+25,MA,Massachusetts,Mass.
+26,MI,Michigan,Mich.
+27,MN,Minnesota,Minn.
+28,MS,Mississippi,Miss.
+29,MO,Missouri,Mo.
+30,MT,Montana,Mont.
+31,NE,Nebraska,Neb.
+32,NV,Nevada,Nev.
+33,NH,New Hampshire,N.H.
+34,NJ,New Jersey,N.J.
+35,NM,New Mexico,N.M.
+36,NY,New York,N.Y.
+37,NC,North Carolina,N.C.
+38,ND,North Dakota,N.D.
+39,OH,Ohio,Ohio
+40,OK,Oklahoma,Okla.
+41,OR,Oregon,Ore.
+42,PA,Pennsylvania,Pa.
+44,RI,Rhode Island,R.I.
+45,SC,South Carolina,S.C.
+46,SD,South Dakota,S.D.
+47,TN,Tennessee,Tenn.
+48,TX,Texas,Tex.
+49,UT,Utah,Utah
+50,VT,Vermont,Vt.
+51,VA,Virginia,Va.
+53,WA,Washington,Wash.
+54,WV,West Virginia,W.Va.
+55,WI,Wisconsin,Wis.
+56,WY,Wyoming,Wyo.
+72,PR,Puerto Rico,P.R.
+01,AL,Alabama,Ala.
+02,AK,Alaska,Alaska
+04,AZ,Arizona,Ariz.
+05,AR,Arkansas,Ark.
+06,CA,California,Calif.
+08,CO,Colorado,Colo.
+09,CT,Connecticut,Conn.
